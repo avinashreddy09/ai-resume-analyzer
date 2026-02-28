@@ -2,7 +2,7 @@
 
 AI-Powered Resume Analyzer is a modern web application that leverages AI to analyze resumes, provide ATS (Applicant Tracking System) scores, and deliver actionable feedback to help users improve their job applications. Built with React, TypeScript, Zustand, and powered by Puter.js for authentication, file storage, and AI services.
 
-<img width="1543" height="868" alt="Screenshot 2025-07-23 153032" src="https://github.com/user-attachments/assets/637146d3-a68d-4516-9bcb-2074f34cdb5d" />
+
 
 
 
@@ -147,4 +147,5 @@ The AI feedback is structured as a [`Feedback`](types/index.d.ts) object, with s
 - [Puter.js Documentation](https://puter.com/docs)
 - [React Router Docs](https://reactrouter.com/)
 #
+
 
