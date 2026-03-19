@@ -2,7 +2,8 @@
 
 AI-Powered Resume Analyzer is a modern web application that leverages AI to analyze resumes, provide ATS (Applicant Tracking System) scores, and deliver actionable feedback to help users improve their job applications. Built with React, TypeScript, Zustand, and powered by Puter.js for authentication, file storage, and AI services.
 
-
+## Live Link 
+https://jioresume.com/
 
 
 
